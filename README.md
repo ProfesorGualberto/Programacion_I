@@ -20,6 +20,7 @@ bash
 Copiar
 Editar
 /
+
 ├── Diagramas_Flujo/     # Archivos de PSeInt (.psc)
 
 ├── Java/                # Ejercicios en lenguaje Java
