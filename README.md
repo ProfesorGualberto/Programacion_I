@@ -26,6 +26,7 @@ Editar
 ├── Java/                # Ejercicios en lenguaje Java
 
 └── Python/              # Ejercicios en lenguaje Python
+
 ✅ Recomendaciones
 Revisa cada ejemplo detenidamente y trata de entender el algoritmo antes de ejecutarlo.
 
